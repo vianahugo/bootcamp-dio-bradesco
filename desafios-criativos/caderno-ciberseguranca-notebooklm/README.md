@@ -30,6 +30,6 @@ Para extrair o melhor da IA, estruturei a interação em três frentes: **Sinté
 
 Os resultados consolidados da interação com a IA foram extraídos e organizados nos arquivos PDF anexados neste repositório:
 
-*   📖 **[Guia de Estudo.md](./entregaveis/Guia_de_Estudo.md):** Resumo estruturado com os principais insights das fontes (Ameaças Técnicas, Prevenção e Pós-Incidente).
-*   📚 **[Glossário de Conceitos.md](./entregaveis/Glossário_de_Conceitos.md):** Lista detalhada de termos como Phishing, Ransomware, SIEM e SSDLC.
-*   💻 **[Caderno de Prompts.md](./entregaveis/Caderno_de_Prompts.md):** Registro dos comandos avançados utilizados, categorizados para revisões futuras.
+*   📖 **[Guia de Estudo.md](./entregaveis/Guia%20de%20Estudo.md):** Resumo estruturado com os principais insights das fontes (Ameaças Técnicas, Prevenção e Pós-Incidente).
+*   📚 **[Glossário de Conceitos.md](./entregaveis/Glossário%20de%20Conceitos.md):** Lista detalhada de termos como Phishing, Ransomware, SIEM e SSDLC.
+*   💻 **[Caderno de Prompts.md](./entregaveis/Caderno%20de%20Prompts.md):** Registro dos comandos avançados utilizados, categorizados para revisões futuras.
