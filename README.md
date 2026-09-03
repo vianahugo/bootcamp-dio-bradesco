@@ -1,36 +1,34 @@
-# 🚀 Bootcamp Bradesco + DIO: IA, Dados e Cibersegurança
+# 🧠 Applied AI Studies
 
-Bem-vindo ao meu repositório de estudos e projetos do **Bootcamp Bradesco + DIO**! 
+Estudos e experimentos aplicados em Inteligência Artificial Generativa, prompt engineering e segurança digital, com foco em cenários reais do setor financeiro.
 
-Este espaço foi criado para documentar minha jornada de aprendizado e centralizar as entregas dos desafios propostos. O objetivo do bootcamp é construir soluções modernas alinhadas às demandas do mercado, explorando ferramentas utilizadas por grandes empresas.
+## ⭐ Destaques
 
-## 🎯 Objetivo da Formação
-Aprofundar conhecimentos e desenvolver habilidades práticas nas seguintes áreas:
-* **Inteligência Artificial Generativa & Prompt Engineering:** Criação de assistentes inteligentes e aplicação de IA em cenários reais de produtividade.
-* **Análise de Dados:** Tratamento, análise e visualização de dados utilizando Excel, SQL e Python.
-* **Cibersegurança:** Práticas essenciais de segurança digital e proteção de dados em ambientes corporativos.
+- **[Detecção de Fraude em Cartão de Crédito](https://github.com/vianahugo/deteccao-fraude-cartao-credito)** — modelo preditivo com validação temporal, otimização de threshold por custo de negócio e interpretabilidade via SHAP. *(repositório próprio)*
 
 ## 🗂️ Estrutura do Repositório
-O repositório está organizado de acordo com as atividades do bootcamp:
 
 ```text
-📁 bootcamp-dio-bradesco
-├── 📁 desafios-de-codigo      # Resoluções de desafios práticos de programação
-├── 📁 desafios-criacao        # Prompts estruturados e extração de insights com IA
-├── 📁 desafios-de-projeto     # Projetos completos integrando IA, Dados e Segurança
-└── 📄 README.md               # Apresentação do repositório
+📁 applied-ai-studies
+└── 📁 prompt-engineering
+    ├── 📁 seguranca-digital-notebooklm     # Curadoria de fontes e prompts sobre fraudes digitais e Pix/MED
+    └── 📄 insights-investimentos.md        # Prompt estruturado para análise de feedback de clientes
 ```
 
-## 🛠️ Tecnologias e Ferramentas Abordadas
-* Python
-* Bancos de Dados (SQL)
-* Engenharia de Prompts (ChatGPT / IAs Generativas)
-* Excel e Visualização de Dados
-* Conceitos de Segurança da Informação
+## 📚 Conteúdo
 
-## 📈 Status do Bootcamp
-* [ ] Cursos Teóricos
-* [ ] Desafios de Código
-* [ ] Desafios de Criação
-* [ ] Projetos Finais
-* [ ] **Certificação Concluída**
+**[Segurança Digital com NotebookLM](./prompt-engineering/seguranca-digital-notebooklm/)** — curadoria de fontes oficiais (Banco Central, FEBRABAN, CERT.br) e engenharia de prompts aplicada à prevenção de fraudes financeiras, com registro do processo de refinamento de prompts (do genérico ao específico).
+
+**[Insights de Investimentos](./prompt-engineering/insights-investimentos.md)** — prompt estruturado para classificar e priorizar feedback de clientes sobre uma plataforma de investimentos, simulando um caso real de apoio à decisão de produto.
+
+## 🛠️ Tecnologias
+
+Python · SQL · Google NotebookLM · Engenharia de Prompts · Conceitos de Segurança da Informação
+
+## 📎 Contexto
+
+Parte destes estudos foi desenvolvida durante formações complementares em IA aplicada ao setor financeiro, incluindo o Bootcamp Bradesco + DIO (Digital Innovation One).
+
+## 🔗 Conecte-se
+
+[LinkedIn](#) · [Portfólio](#)
